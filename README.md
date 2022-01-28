@@ -1,5 +1,4 @@
-- 👋 Hi, Jeg er Skistad
-- hvordan går det?
+- 👋 Hallois.
 
 <!---
 Skistad/Skistad is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
